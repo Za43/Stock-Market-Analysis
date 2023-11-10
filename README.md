@@ -15,19 +15,3 @@ Our exploratory data analysis reveals a complex relationship between market retu
 ### Data and Tools
 
 The project utilizes data from reputable sources like Macrotrends, Investing.com, Slickcharts, and Data Hub, with analysis conducted through statistical software and programming libraries suited for data science.
-
-### Getting Started
-
-To delve into the analysis, clone this repository and refer to the `report.qmd` for the detailed report and `presentation.pdf` for a summarized overview. Ensure you have the necessary data analysis tools installed to engage with the content.
-
-### Contributions and Collaboration
-
-We encourage contributions that can refine this analysis or expand its scope. If you're interested in contributing to this project, please follow the standard protocols for issues and pull requests on GitHub.
-
-### License
-
-The Stock Market Analysis project is made available under the MIT license, promoting open and collaborative development.
-
----
-
-This README is a portal into the project, offering a snapshot of its essence and inviting a deeper exploration through the provided documentation and analysis files.
